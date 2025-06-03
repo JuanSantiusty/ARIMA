@@ -1,0 +1,9 @@
+Básicamente trabaja con dos enfoques distintos, el enfoque de la autorregresion y de la media móvil
+
+Para trabajar con este modelo necesitamos que los datos de las series temporales sean estacionarios, es posible con datos no estacionarios pero es mas difícil, las series temporales son datos que tiene asociados valores específicos, además esta series se miden en una unidad de tiempo constante es decir que son datos de días, semanas etc.
+
+Si los datos de series temporales tienen tendencias podría afectar los datos
+
+Se necesita revisar la Autocorrelación de los datos de la serie temporal. Se necesitan los gráficos de la ACF y PACF para trabajar con ARIMA
+
+
